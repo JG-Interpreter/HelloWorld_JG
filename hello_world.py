@@ -1,1 +1,2 @@
-print("hello world")
+for char in "hello":
+    print("hello world")
